@@ -2,7 +2,7 @@
     author: Steven Dale
     Project: aMAZEing
 '''
-from Maze import Maze
+from maze import Maze
 from graphics import *
 from time import sleep
 
